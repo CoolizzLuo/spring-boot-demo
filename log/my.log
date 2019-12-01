@@ -1,0 +1,4 @@
+2019-11-27 00:24:23.603  INFO 25668 --- [main] com.enzo.SpringBootDemoApplication       : Starting SpringBootDemoApplication on Enzo-XPS9370 with PID 25668 (C:\Users\Enzo-XPS\OneDrive\Enzo_Program\JAVA\IDEA_Project\spring-boot-demo\target\classes started by Enzo-XPS in C:\Users\Enzo-XPS\OneDrive\Enzo_Program\JAVA\IDEA_Project\spring-boot-demo)
+2019-11-27 00:24:23.606 DEBUG 25668 --- [main] com.enzo.SpringBootDemoApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-27 00:24:23.607  INFO 25668 --- [main] com.enzo.SpringBootDemoApplication       : No active profile set, falling back to default profiles: default
+2019-11-27 00:24:25.092  INFO 25668 --- [main] com.enzo.SpringBootDemoApplication       : Started SpringBootDemoApplication in 2.061 seconds (JVM running for 2.927)

@@ -1,0 +1,12 @@
+2019-11-27 00:20:40.294  INFO 17060 --- [main] com.enzo.SpringBootDemoApplication       : Starting SpringBootDemoApplication on Enzo-XPS9370 with PID 17060 (C:\Users\Enzo-XPS\OneDrive\Enzo_Program\JAVA\IDEA_Project\spring-boot-demo\target\classes started by Enzo-XPS in C:\Users\Enzo-XPS\OneDrive\Enzo_Program\JAVA\IDEA_Project\spring-boot-demo)
+2019-11-27 00:20:40.297 DEBUG 17060 --- [main] com.enzo.SpringBootDemoApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-27 00:20:40.297  INFO 17060 --- [main] com.enzo.SpringBootDemoApplication       : No active profile set, falling back to default profiles: default
+2019-11-27 00:20:41.675  INFO 17060 --- [main] com.enzo.SpringBootDemoApplication       : Started SpringBootDemoApplication in 1.887 seconds (JVM running for 2.766)
+2019-11-27 00:21:37.674  INFO 24700 --- [main] com.enzo.SpringBootDemoApplication       : Starting SpringBootDemoApplication on Enzo-XPS9370 with PID 24700 (C:\Users\Enzo-XPS\OneDrive\Enzo_Program\JAVA\IDEA_Project\spring-boot-demo\target\classes started by Enzo-XPS in C:\Users\Enzo-XPS\OneDrive\Enzo_Program\JAVA\IDEA_Project\spring-boot-demo)
+2019-11-27 00:21:37.678 DEBUG 24700 --- [main] com.enzo.SpringBootDemoApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-27 00:21:37.679  INFO 24700 --- [main] com.enzo.SpringBootDemoApplication       : No active profile set, falling back to default profiles: default
+2019-11-27 00:21:39.227  INFO 24700 --- [main] com.enzo.SpringBootDemoApplication       : Started SpringBootDemoApplication in 2.098 seconds (JVM running for 3.01)
+2019-11-27 00:21:57.714  INFO 21308 --- [main] com.enzo.SpringBootDemoApplication       : Starting SpringBootDemoApplication on Enzo-XPS9370 with PID 21308 (C:\Users\Enzo-XPS\OneDrive\Enzo_Program\JAVA\IDEA_Project\spring-boot-demo\target\classes started by Enzo-XPS in C:\Users\Enzo-XPS\OneDrive\Enzo_Program\JAVA\IDEA_Project\spring-boot-demo)
+2019-11-27 00:21:57.718 DEBUG 21308 --- [main] com.enzo.SpringBootDemoApplication       : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-27 00:21:57.720  INFO 21308 --- [main] com.enzo.SpringBootDemoApplication       : No active profile set, falling back to default profiles: default
+2019-11-27 00:21:59.176  INFO 21308 --- [main] com.enzo.SpringBootDemoApplication       : Started SpringBootDemoApplication in 2.011 seconds (JVM running for 2.87)

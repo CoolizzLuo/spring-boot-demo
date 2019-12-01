@@ -1,0 +1,21 @@
+server:
+  port: 8085
+#  servlet:
+#    context-path: /api
+logging:
+  level:
+    root: info
+    com.enzo: debug
+  file:
+    name: log/my.log
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/book?useUnicode=true&characterEncoding=utf-8&verifyServerCertificate=false&useSSL=true
+    username: root
+    password: 12345
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true

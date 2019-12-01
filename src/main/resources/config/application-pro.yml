@@ -1,0 +1,21 @@
+server:
+  port: 8085
+#  servlet:
+#    context-path: /api
+logging:
+  level:
+    root: info
+    com.enzo: debug
+  file:
+    name: log/my.log
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://1.32.244.242:3306/hosts?verifyServerCertificate=false&useSSL=true
+    username: zabbix
+    password: 5tgbVCXZ
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
